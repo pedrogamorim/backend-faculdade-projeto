@@ -1,0 +1,96 @@
+[
+  {
+    "nome": "Pedro Gabriel Jeronimo Amorim",
+    "registro": "759058",
+    "area": "Administrativo",
+    "epis": [
+      "Máscara simples",
+      "Protetor auricular"
+    ],
+    "leis": [
+      "NR-17"
+    ]
+  },
+  {
+    "nome": "Guilherme Rodrigues Sulkovski",
+    "registro": "760547",
+    "area": "Produção",
+    "epis": [
+      "Capacete",
+      "Luvas",
+      "Óculos de proteção",
+      "Botas"
+    ],
+    "leis": [
+      "NR-6",
+      "NR-12"
+    ]
+  },
+  {
+    "nome": "Olivia Santos Satyro",
+    "registro": "758091",
+    "area": "Laboratório",
+    "epis": [
+      "Óculos de proteção",
+      "Avental resistente",
+      "Luvas químicas"
+    ],
+    "leis": [
+      "NR-6"
+    ]
+  },
+  {
+    "nome": "Bianca Lopes da Silva",
+    "registro": "760566",
+    "area": "Saúde",
+    "epis": [
+      "Luvas descartáveis",
+      "Máscara N95",
+      "Avental"
+    ],
+    "leis": [
+      "NR-32"
+    ]
+  },
+  {
+    "nome": "Henrique Vieira de Souza",
+    "registro": "759939",
+    "area": "Construção",
+    "epis": [
+      "Capacete",
+      "Colete refletivo",
+      "Botas biqueira"
+    ],
+    "leis": [
+      "NR-6",
+      "NR-18"
+    ]
+  },
+  {
+    "nome": "Leonardo José dos Santos",
+    "registro": "760326",
+    "area": "Produção",
+    "epis": [
+      "Capacete",
+      "Luvas",
+      "Óculos de proteção",
+      "Botas"
+    ],
+    "leis": [
+      "NR-6",
+      "NR-12"
+    ]
+  },
+  {
+    "nome": "José Willian de Camargo Souza",
+    "registro": "759376",
+    "area": "Serviços Gerais",
+    "epis": [
+      "Luvas",
+      "Calçado fechado"
+    ],
+    "leis": [
+      "NR-6"
+    ]
+  }
+]
